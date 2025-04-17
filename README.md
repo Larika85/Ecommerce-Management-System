@@ -1,20 +1,31 @@
 # 🛒 Kadai – eCommerce Website
 
-Welcome to **Kadai**, a fully functional eCommerce website created by **Harshini** and **Larika**. The goal of this project is to simulate a real-world online shopping platform with essential features for both users and administrators.
+Welcome to **Kadai**, a fully functional and responsive eCommerce website created by **Harshini** and **Larika**. Designed with simplicity and efficiency in mind, Kadai aims to provide users with a smooth online shopping experience while giving administrators full control over product listings and order management.
 
 🔗 **Live Website**: [http://kadai.rf.gd/](http://kadai.rf.gd/)
+
+---
+## 🌟 About the Website
+
+**Kadai** is a simulation of a real-world online store where users can browse products, view details, and place orders. The project demonstrates the integration of front-end and back-end technologies to create a dynamic and interactive website. Whether you're a shopper looking for great products or an admin managing inventory, Kadai covers all essential features of an online retail platform.
 
 ---
 
 ## 💡 Features
 
-- 🔐 User Registration & Login  
-- 🛍️ Product Browsing & Categorization  
-- 🛒 Add to Cart & Checkout System  
-- 💳 Order Placement  
-- 🧾 Order History  
-- 📦 Admin Panel for Product Management  
-- ✨ Responsive Design for all screen sizes  
+### 👤 User Functionality
+- Account registration and secure login
+- Browse products by categories
+- Search functionality for quick product lookup
+- Add to cart and modify quantity
+- Place orders and view order history
+- Responsive UI for mobile, tablet, and desktop users
+
+### 🛠️ Admin Functionality
+- Admin login with access control
+- Add, update, and delete products
+- View customer orders
+- Manage inventory easily from the dashboard
 
 ---
 
