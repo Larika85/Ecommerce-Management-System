@@ -1,6 +1,6 @@
 # 🛒 Kadai – eCommerce Website
 
-Welcome to **Kadai**, a fully functional and responsive eCommerce website created by **Harshini** and **Larika**. Designed with simplicity and efficiency in mind, Kadai aims to provide users with a smooth online shopping experience while giving administrators full control over product listings and order management.
+Welcome to **Kadai**, a fully functional and responsive eCommerce website created by **Harshini** and **Larika**. Designed with simplicity and efficiency in mind, Kadai aims to provide users with a smooth online shopping experience.
 
 🔗 **Live Website**: [http://kadai.rf.gd/](http://kadai.rf.gd/)
 
@@ -20,12 +20,6 @@ Welcome to **Kadai**, a fully functional and responsive eCommerce website create
 - Add to cart and modify quantity
 - Place orders and view order history
 - Responsive UI for mobile, tablet, and desktop users
-
-### 🛠️ Admin Functionality
-- Admin login with access control
-- Add, update, and delete products
-- View customer orders
-- Manage inventory easily from the dashboard
 
 ---
 
